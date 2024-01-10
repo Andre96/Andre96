@@ -9,10 +9,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/andrea catena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="andrea catena" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/andrea catena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andrea catena" height="30" width="40" /></a>
-<a href="https://kaggle.com/andrea catena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="andrea catena" height="30" width="40" /></a>
-<a href="https://fb.com/andrea catena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="andrea catena" height="30" width="40" /></a>
+<a href="https://twitter.com/andrycat96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="andrycat96" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/andrea-catena-8434b6299/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/andrea-catena-8434b6299/" height="30" width="40" /></a>
+<a href="https://kaggle.com/andreacatena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/andreacatena" height="30" width="40" /></a>
+<a href="https://fb.com/andrea.catena.94/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/andrea.catena.94/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
